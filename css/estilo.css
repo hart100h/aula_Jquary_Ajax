@@ -1,0 +1,18 @@
+.tabela{
+    background-position: center;
+}
+
+#titulo_cep{
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.linha_resultado{
+    font-style: oblique;
+    text-align: center;
+}
+
+.nome_descricao{
+    width: 200px;
+}
+
